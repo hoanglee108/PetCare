@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Virus Herpes của mèo (FHV-1)",
+        "info": "Virus phổ biến ở mèo gây ra các triệu chứng hô hấp và viêm mắt.",
+        "symptoms": ["Hắt hơi","Dịch mũi","Viêm kết mạc","Loét giác mạc","Các vấn đề về hô hấp"],
+        "path": "img/cat/cat1.png"
+    },
+    {
+        "name": "Poxvirus của mèo (Cowpox ở mèo)",
+        "info": "Virus gây tổn thương da, thường gặp ở mặt và chi.",
+        "symptoms": ["Vết loét da","Mụn mủ","Vảy (thường ở mặt và chi)"],
+        "path": "img/cat/cat2.jpg"
+    },
+    {
+        "name": "Feline Panleukopenia (Parvovirus ở mèo)",
+        "info": "Virus cực kỳ nguy hiểm gây giảm bạch cầu và tổn thương nghiêm trọng.",
+        "symptoms": ["Nôn mửa","Tiêu chảy (thường có máu)","Sốt","Uể oải","Giảm bạch cầu"],
+        "path": "img/cat/cat3.jpg"
+    },
+    {
+        "name": "Papillomavirus của mèo",
+        "info": "Virus này gây u nhú hoặc mụn cóc trên da, thường lành tính.",
+        "symptoms": [
+            "U nhú hoặc mụn cóc trên da (thường ở mặt hoặc chi)",
+            "Thường vô hại nhưng có thể gây kích ứng"],
+        "path": "img/cat/cat4.jpg"
+    },
+    {
+        "name": "Coronavirus mèo (FCoV)",
+        "info": "Virus này có thể phát triển thành Viêm phúc mạc nhiễm trùng mèo (FIP).",
+        "symptoms": ["Sốt","Giảm cân","Tích tụ dịch bụng","Vàng da","Uể oải"],
+        "path": "img/cat/cat5.jpg"
+    },
+    {
+        "name": "Virus Bạch cầu mèo (FeLV)",
+        "info": "Virus gây suy giảm miễn dịch và nguy cơ ung thư hạch.",
+        "symptoms": ["Thiếu máu","Giảm cân","Uể oải","Tăng khả năng mắc các bệnh nhiễm trùng","Phát triển bệnh ung thư hạch"],
+        "path": "img/cat/cat6.jpg"
+    },
+    {
+        "name": "Virus Dại",
+        "info": "Virus gây bệnh dại, với triệu chứng tương tự như ở chó.",
+        "symptoms": ["Sốt","Hung dữ","Liệt","Khó nuốt"],
+        "path": "img/cat/cat7.jpg"
+    },
+    {
+        "name": "Virus Calicivirus mèo (FCV)",
+        "info": "Gây ra các triệu chứng về hô hấp và viêm khớp ở mèo.",
+        "symptoms": ["Loét miệng","Triệu chứng hô hấp (ho, chảy nước mũi)","Viêm khớp"],
+        "path": "img/cat/cat8.jpeg"
+    },
+    {
+        "name": "Bệnh viêm phổi do Streptococcus",
+        "info": "Viêm phổi Streptococcus gây ho, khó thở, và thở rít, có thể dẫn đến giảm ăn và mệt mỏi.",
+        "symptoms": ["Ho", "Khó thở", "Chảy nước mũi", "Thở rít", "Uể oải", "Giảm ăn"],
+        "path": "img/cat/cat9.jpg"
+    },
+    {
+        "name": "Bệnh viêm màng tim (Endocarditis)",
+        "info": "Bệnh viêm màng tim có thể gây khó thở và giảm cảm giác thèm ăn, đi kèm với sưng ở chân.",
+        "symptoms": ["Mệt mỏi", "Khó thở", "Giảm ăn", "Sốt", "Phù chân"],
+        "path": "img/cat/cat10.jpg"
+    },
+    {
+        "name": "Bệnh nhiễm trùng da do Streptococcus",
+        "info": "Nhiễm trùng da Streptococcus gây ra viêm da, mủ hoặc vết loét và có thể gây ngứa cho mèo.",
+        "symptoms": ["Viêm da", "Có mủ hoặc vết loét", "Đau và ngứa"],
+        "path": "img/cat/cat11.jpg"
+    },
+    {
+        "name": "Bệnh viêm vú (Mastitis)",
+        "info": "Viêm vú làm vú mèo sưng và đau, có thể có mủ hoặc dịch tiết và khiến mèo giảm cảm giác thèm ăn.",
+        "symptoms": ["Sưng vú", "Có mủ hoặc dịch từ vú", "Sốt", "Giảm ăn"],
+        "path": "img/cat/cat12.jpg"
+    },
+    {
+        "name": "Nhiễm trùng da do Staphylococcus (Pyoderma)",
+        "info": "Nhiễm trùng da gây đỏ, mủ và vết loét trên da, mèo có thể liếm hoặc gãi khu vực bị nhiễm trùng.",
+        "symptoms": ["Da bị đỏ", "Có vết loét", "Viêm", "Mủ"],
+        "path": "img/cat/cat13.jpg"
+    }
+]

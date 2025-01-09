@@ -1,0 +1,386 @@
+[
+    {
+        "name": "Virus Herpes của mèo (FHV-1)",
+        "info": "Virus Herpes của mèo (FHV-1) là một trong những nguyên nhân phổ biến gây bệnh ở mèo. Virus này thường ảnh hưởng đến đường hô hấp trên và mắt, đặc biệt là ở mèo con hoặc mèo bị suy giảm miễn dịch. FHV-1 có thể lây lan thông qua tiếp xúc trực tiếp với dịch tiết từ mèo bị nhiễm bệnh hoặc qua môi trường bị nhiễm bẩn.",
+        "symptoms": [
+            "Hắt hơi",
+            "Dịch mũi",
+            "Viêm kết mạc",
+            "Loét giác mạc",
+            "Các vấn đề về hô hấp"
+        ],
+        "path": "img/cat/cat1.jpg"
+    },
+    {
+        "name": "Poxvirus của mèo (Cowpox ở mèo)",
+        "info": "Poxvirus của mèo là một loại virus gây tổn thương da nghiêm trọng. Loại virus này thường lây nhiễm qua các vết cắn hoặc tiếp xúc trực tiếp với động vật bị nhiễm. Mèo bị nhiễm thường xuất hiện các tổn thương ngoài da, chủ yếu ở mặt, tai và các chi. Virus này phổ biến hơn ở những mèo sống ở khu vực nông thôn.",
+        "symptoms": [
+            "Vết loét da",
+            "Mụn mủ",
+            "Vảy (thường ở mặt và chi)"
+        ],
+        "path": "img/cat/cat2.jpg"
+    },
+    {
+        "name": "Feline Panleukopenia (Parvovirus ở mèo)",
+        "info": "Feline Panleukopenia, còn gọi là bệnh giảm bạch cầu ở mèo, là một bệnh truyền nhiễm nghiêm trọng do Parvovirus gây ra. Virus này có khả năng sống sót trong môi trường khắc nghiệt và thường lây lan qua tiếp xúc với phân của mèo bị nhiễm. Đây là một trong những bệnh gây tử vong cao nhất ở mèo chưa được tiêm phòng.",
+        "symptoms": [
+            "Nôn mửa",
+            "Tiêu chảy (thường có máu)",
+            "Sốt",
+            "Uể oải",
+            "Giảm bạch cầu"
+        ],
+        "path": "img/cat/cat3.jpg"
+    },
+    {
+        "name": "Papillomavirus của mèo",
+        "info": "Papillomavirus là một loại virus gây ra các khối u nhú hoặc mụn cóc trên da của mèo. Những khối u này thường lành tính và xuất hiện ở các khu vực như mặt, tai hoặc chi. Tuy nhiên, chúng có thể gây khó chịu hoặc bị viêm nếu bị cọ xát hoặc nhiễm trùng thứ cấp.",
+        "symptoms": [
+            "U nhú hoặc mụn cóc trên da (thường ở mặt hoặc chi)",
+            "Thường vô hại nhưng có thể gây kích ứng"
+        ],
+        "path": "img/cat/cat4.jpg"
+    },
+    {
+        "name": "Coronavirus mèo (FCoV)",
+        "info": "Coronavirus mèo (FCoV) là một loại virus phổ biến ở mèo, thường không gây triệu chứng nghiêm trọng. Tuy nhiên, trong một số trường hợp, virus này có thể biến đổi thành Viêm phúc mạc nhiễm trùng mèo (FIP), một bệnh lý gây tử vong cao. Virus lây lan qua phân và dịch tiết của mèo bị nhiễm.",
+        "symptoms": [
+            "Sốt",
+            "Giảm cân",
+            "Tích tụ dịch bụng",
+            "Vàng da",
+            "Uể oải"
+        ],
+        "path": "img/cat/cat5.jpg"
+    },
+    {
+        "name": "Bệnh viêm phổi do Streptococcus",
+        "info": "Viêm phổi Streptococcus là một bệnh nhiễm trùng đường hô hấp nghiêm trọng ở mèo. Bệnh thường gây ho, khó thở và mệt mỏi, đặc biệt là ở mèo già hoặc mèo có hệ miễn dịch yếu.",
+        "symptoms": [
+            "Ho",
+            "Khó thở",
+            "Chảy nước mũi",
+            "Thở rít",
+            "Uể oải",
+            "Giảm ăn"
+        ],
+        "path": "img/cat/cat9.jpg"
+    },
+    {
+        "name": "Bệnh viêm màng tim (Endocarditis)",
+        "info": "Viêm màng tim là một tình trạng viêm nhiễm nghiêm trọng ở màng tim của mèo, thường gây ra bởi vi khuẩn hoặc nấm. Bệnh có thể ảnh hưởng đến chức năng tim và dẫn đến các triệu chứng như khó thở và sưng chân.",
+        "symptoms": [
+            "Mệt mỏi",
+            "Khó thở",
+            "Giảm ăn",
+            "Sốt",
+            "Phù chân"
+        ],
+        "path": "img/cat/cat10.jpg"
+    },
+    {
+        "name": "Bệnh nhiễm trùng da do Streptococcus",
+        "info": "Nhiễm trùng da do Streptococcus là một bệnh phổ biến gây ra viêm da và các tổn thương ngoài da ở mèo. Bệnh có thể làm mèo ngứa ngáy và liếm gãi liên tục, dẫn đến tổn thương nghiêm trọng hơn nếu không được điều trị.",
+        "symptoms": [
+            "Viêm da",
+            "Có mủ hoặc vết loét",
+            "Đau và ngứa"
+        ],
+        "path": "img/cat/cat11.jpg"
+    },
+    {
+        "name": "Bệnh viêm vú (Mastitis)",
+        "info": "Viêm vú ở mèo thường xảy ra ở mèo mẹ đang nuôi con. Tình trạng này gây sưng đau ở tuyến vú và có thể kèm theo mủ hoặc dịch tiết. Mèo bị viêm vú thường chán ăn và trở nên mệt mỏi.",
+        "symptoms": [
+            "Sưng vú",
+            "Có mủ hoặc dịch từ vú",
+            "Sốt",
+            "Giảm ăn"
+        ],
+        "path": "img/cat/cat12.jpg"
+    },
+    {
+        "name": "Nhiễm trùng da do Staphylococcus (Pyoderma)",
+        "info": "Nhiễm trùng da do Staphylococcus, hay còn gọi là Pyoderma, là một bệnh ngoài da phổ biến ở mèo. Bệnh gây ra các triệu chứng như đỏ da, mủ và các vết loét. Nếu không được điều trị kịp thời, Pyoderma có thể dẫn đến nhiễm trùng nghiêm trọng hơn.",
+        "symptoms": [
+            "Da bị đỏ",
+            "Có vết loét",
+            "Viêm",
+            "Mủ"
+        ],
+        "path": "img/cat/cat13.jpg"
+    },
+    {
+        "name": "Bệnh Viêm Mũi - Họng (Upper Respiratory Infection)",
+        "symptoms": [
+            "Bị sốt nhẹ (tăng nhiệt độ cơ thể từ 38.5°C đến 39.5°C) hoặc sốt cao (trên 40°C)",
+            "ủ rũ",
+            "ít vận động",
+            "thở gấp",
+            "ho khan",
+            "ho có đờm",
+            "chảy mũi trong suốt ban đầu",
+            "sau đó có thể chuyển sang mủ xanh hoặc vàng nếu có nhiễm trùng",
+            "viêm kết mạc",
+            "mắt đỏ và có thể chảy nước mắt",
+            "mèo có thể biếng ăn vì cảm giác đau họng và khó nuốt"
+        ],
+        "info": "Đây là một bệnh phổ biến ở mèo, thường do virus hoặc vi khuẩn gây ra, bao gồm Herpesvirus (FHV) hoặc Calicivirus (FCV). Bệnh làm viêm đường hô hấp trên, ảnh hưởng đến mũi, họng, và mắt. Mèo dễ bị lây nhiễm qua tiếp xúc gần hoặc môi trường bị ô nhiễm.",
+        "path": "img/cat/cat14.jpg"
+    },
+    {
+        "name": "Bệnh Tiêu Hóa (Tiêu chảy, Nôn mửa)",
+        "symptoms": [
+            "Mèo có thể nôn liên tục",
+            "nôn ra dịch màu vàng hoặc có thể là thức ăn chưa tiêu hóa",
+            "có thể nôn ra máu (nôn ra dịch màu đỏ hoặc đen)",
+            "phân lỏng hoặc có mùi hôi nặng",
+            "tiêu chảy có thể có máu tươi hoặc mủ nếu có nhiễm trùng đường ruột",
+            "mèo có thể đi ngoài nhiều lần trong ngày",
+            "cảm thấy yếu ớt",
+            "không muốn di chuyển và ngủ nhiều hơn bình thường."
+        ],
+        "info": "Các vấn đề tiêu hóa ở mèo thường liên quan đến chế độ ăn, dị ứng thực phẩm, hoặc nhiễm trùng đường tiêu hóa. Bệnh có thể gây mất nước và suy dinh dưỡng nếu không được điều trị kịp thời.",
+        "path": "img/cat/cat15.jpg"
+    },
+    {
+        "name": "Bệnh Tiểu Đường (Diabetes Mellitus)",
+        "symptoms": [
+            "Tăng uống nước",
+            "đi tiểu nhiều",
+            "mèo bị sụt cân nhanh chóng dù ăn bình thường hoặc thậm chí ăn nhiều hơn",
+            "mèo không còn năng lượng",
+            "lười vận động",
+            "nằm im một chỗ."
+        ],
+        "info": "Tiểu đường ở mèo là tình trạng rối loạn chuyển hóa do thiếu hụt insulin hoặc khả năng sử dụng insulin của cơ thể. Bệnh thường gặp ở mèo thừa cân hoặc béo phì, dẫn đến lượng đường trong máu cao, gây ảnh hưởng nghiêm trọng đến sức khỏe.",
+        "path": "img/cat/cat16.jpg"
+    },
+    {
+        "name": "Bệnh Nhiễm Ký Sinh Trùng (Worms, Fleas, Ticks)",
+        "symptoms": [
+            "Mèo liên tục cào gãi ở những vùng vàng da",
+            "lông xơ xác",
+            "nôn mửa",
+            "tiêu chảy",
+            "phân có máu",
+            "da bị đỏ hoặc viêm"
+        ],
+        "info": "Ký sinh trùng như giun, bọ chét, và ve thường gây ngứa ngáy, viêm da, và thiếu máu ở mèo. Các loại ký sinh này dễ lây lan qua tiếp xúc với môi trường bẩn hoặc động vật khác.",
+        "path": "img/cat/cat17.jpg"
+    },
+    {
+        "name": "Bệnh Viêm Phổi (Pneumonia)",
+        "symptoms": [
+            "Thở nhanh và nông",
+            "thở khò khè hoặc thở gấp",
+            "ho có đờm vàng hoặc xanh",
+            "ho ra máu",
+            "ăn ít",
+            "nằm một chỗ",
+            "lười vận động",
+            "sốt cao trên 40°C",
+            "run rẩy",
+            "ủ rũ"
+        ],
+        "info": "Viêm phổi là bệnh nhiễm trùng phổi do vi khuẩn, virus hoặc nấm gây ra. Bệnh làm tổn thương mô phổi, ảnh hưởng đến khả năng hô hấp của mèo, thường xảy ra sau khi mắc bệnh viêm đường hô hấp trên không được điều trị.",
+        "path": "img/cat/cat18.jpg"
+    },
+    {
+        "name": "Bệnh Tim Mèo (Heart Disease)",
+        "symptoms": [
+            "Thở dốc",
+            "thở khò khè",
+            "thở với âm thanh lạ",
+            "phù nề",
+            "chi và bụng bị sưng",
+            "mệt mỏi",
+            "lười vận động."
+        ],
+        "info": "Các bệnh tim ở mèo, như bệnh cơ tim phì đại (HCM), ảnh hưởng đến chức năng bơm máu của tim. Bệnh thường tiến triển âm thầm và gây ra suy tim nếu không được phát hiện sớm.",
+        "path": "img/cat/cat19.jpg"
+    },
+    {
+        "name": "Bệnh Suy Thận (Kidney Disease)",
+        "symptoms": [
+            "uống nước nhiều",
+            "đi tiểu nhiều",
+            "vàng da",
+            "vàng mắt",
+            "uể ải",
+            "mệt mỏi",
+            "thở ra mùi nước tiểu"
+        ],
+        "info": "Suy thận là bệnh mãn tính phổ biến ở mèo lớn tuổi. Thận mất khả năng lọc độc tố khỏi máu, dẫn đến tích tụ chất độc trong cơ thể, gây ảnh hưởng nghiêm trọng đến sức khỏe.",
+        "path": "img/cat/cat20.jpg"
+    },
+    {
+        "name": "Bệnh Giun Đũa (Heartworm Disease)",
+        "symptoms": [
+            "Ho khan",
+            "ho có đàm",
+            "ho ra máu",
+            "thở dốc",
+            "thở có tiếng rít",
+            "thở gắng sức",
+            "sụt cân nhanh chóng",
+            "ăn ít",
+            "mệt mỏi",
+            "lười vận động"
+        ],
+        "info": "Mèo mắc bệnh giun đũa khi bị nhiễm giun ký sinh sống trong tim hoặc phổi. Bệnh làm tắc nghẽn mạch máu, gây khó thở, tổn thương tim và phổi.",
+        "path": "img/cat/cat21.jpg"
+    },
+    {
+        "name": "Bệnh Viêm Da (Dermatitis)",
+        "symptoms": [
+            "Mèo gãi liên tục ở các vùng da bị viêm",
+            "rụng lông",
+            "da đỏ",
+            "sưng tấy",
+            "xuất hiện mụn mủ",
+            "có vết loét"
+        ],
+        "info": "Viêm da là tình trạng viêm nhiễm hoặc dị ứng trên da mèo, gây ngứa, rụng lông, và lở loét. Các nguyên nhân phổ biến bao gồm bọ chét, dị ứng thực phẩm, hoặc nhiễm trùng.",
+        "path": "img/cat/cat22.jpg"
+    },
+    {
+        "name": "Bệnh Ung Thư (Cancer)",
+        "symptoms": [
+            "thở nhanh",
+            "thở hổn hển quá mức"
+        ],
+        "info": "Ung thư ở mèo có thể ảnh hưởng đến nhiều cơ quan khác nhau, phổ biến nhất là u lympho (lymphoma). Bệnh có thể di căn và đe dọa tính mạng nếu không được phát hiện và điều trị kịp thời.",
+        "path": "img/cat/cat23.jpg"
+    },
+    {
+        "name": "Bệnh Feline Leukemia (FeLV)",
+        "symptoms": [
+            "Sụt cân nhanh",
+            "mèo không ăn hoặc ăn ít",
+            "bị loét ở miệng",
+            "hạch bạch huyết dưới cằm hoặc cổ sưng to",
+            "mắc các bệnh nhiễm trùng tái phát như viêm da viêm phổi"
+        ],
+        "info": "FeLV là một bệnh do virus gây ra, ảnh hưởng đến hệ miễn dịch của mèo. Bệnh làm giảm khả năng chống lại nhiễm trùng và tăng nguy cơ phát triển các bệnh nghiêm trọng như ung thư.",
+        "path": "img/cat/cat24.jpg"
+    },
+    {
+        "name": "Bệnh Feline Immunodeficiency Virus (FIV)",
+        "symptoms": [
+            "Rụng lông thành từng mảng",
+            "da dày lên",
+            "xuất hiện mụn mủ",
+            "lông rụng toàn thân",
+            "da lở loét."
+        ],
+        "info": "Sốt kéo dài, mệt mỏi, sụt cân, biếng ăn, viêm da, vấn đề về mắt, trở nên hung dữ bất thường",
+        "path": "img/cat/cat25.jpg"
+    },
+    {
+        "name": "Bệnh Giun Chó (Toxoplasmosis)",
+        "symptoms": [
+            "Sốt cao",
+            "run rẩy",
+            "biếng ăn",
+            "sụt cân",
+            "tiêu chảy",
+            "nôn mửa",
+            "có máu trong phân hoặc nôn",
+            "khó thở",
+            "thở dốc"
+        ],
+        "info": "Toxoplasmosis là bệnh do ký sinh trùng Toxoplasma gondii gây ra, lây truyền qua thịt sống hoặc phân mèo. Bệnh có thể ảnh hưởng đến nhiều cơ quan, đặc biệt nguy hiểm với mèo con và mèo bị suy giảm miễn dịch.",
+        "path": "img/cat/cat26.jpg"
+    },
+    {
+        "name": "Bệnh Dại (Rabies)",
+        "symptoms": [
+            "Dễ sợ hãi",
+            "hung dữ bất thường",
+            "tấn công người bất ngờ",
+            "khó khăn trong việc nuốt thức ăn và nước uống",
+            "bị co giật",
+            "tê liệt",
+            "sùi bọt mép",
+            "khó thở",
+            "thở gấp"
+        ],
+        "info": "Bệnh dại là bệnh truyền nhiễm nguy hiểm, gây viêm não do virus Rabies. Virus lây qua vết cắn của động vật nhiễm bệnh, thường gây tử vong nếu không được tiêm phòng.",
+        "path": "img/cat/cat27.jpg"
+    },
+    {
+        "name": "Bệnh Tăng Nhãn Áp (Glaucoma)",
+        "symptoms": [
+            "Mắt đỏ",
+            "đau mắt",
+            "chảy nước mắt nhiều",
+            "mắt có dịch nhầy",
+            "mắt to bất thường",
+            "mắt bị lồi",
+            "chớp mắt nhiều",
+            "không thoải mái khi ra sáng",
+            "không còn nhìn thấy"
+        ],
+        "info": "Tăng nhãn áp là tình trạng áp lực trong mắt tăng cao, gây tổn thương thần kinh thị giác và dẫn đến mù lòa nếu không điều trị kịp thời.",
+        "path": "img/cat/cat28.jpg"
+    },
+    {
+        "name": "Bệnh Nhiễm Trùng Tiết Niệu (Urinary Tract Infection - UTI)",
+        "symptoms": [
+            "Đi tiểu nhiều lần",
+            "mỗi lần đi tiểu chỉ một lượng ít",
+            "rên rỉ khi đi tiểu",
+            "thường xuyên liếm hậu môn",
+            "biếng ăn",
+            "mệt mỏi"
+        ],
+        "info": "Nhiễm trùng tiết niệu là bệnh phổ biến ở mèo, đặc biệt là mèo đực. Bệnh gây viêm nhiễm đường tiết niệu, làm mèo khó đi tiểu, đau đớn, và có thể nguy hiểm nếu không được điều trị.",
+        "path": "img/cat/cat29.jpg"
+    },
+    {
+        "name": "Bệnh Bướu Nội Tiết (Thyroid Disease - Hyperthyroidism)",
+        "symptoms": [
+            "sụt cân dù ăn uống bình thường",
+            "bị kích thích",
+            "năng động quá mức",
+            "tiêu chảy",
+            "phân lỏng",
+            "lông khô ráp",
+            "lông rụng nhiều"
+        ],
+        "info": "Bứu nội tiết hay cường giáp là bệnh phổ biến ở mèo lớn tuổi, do tuyến giáp hoạt động quá mức, gây ra các vấn đề về tim mạch, cân nặng, và hành vi.",
+        "path": "img/cat/cat30.jpg"
+    },
+    {
+        "name": "Bệnh Đau Khớp (Arthritis)",
+        "symptoms": [
+            "Di chuyển khó khăn",
+            "khó leo trèo",
+            "cử động khó",
+            "di chuyển chậm",
+            "khi nằm thường xuyên đổi tư thế",
+            "ít vận động hơn",
+            "ít chơi đùa"
+        ],
+        "info": "Viêm khớp ở mèo xảy ra khi sụn khớp bị tổn thương, làm giảm khả năng vận động và gây đau đớn. Bệnh thường gặp ở mèo lớn tuổi.",
+        "path": "img/cat/cat31.jpg"
+    },
+    {
+        "name": "Bệnh Mù Lóa (Cataracts)",
+        "symptoms": [
+            "Mắt mờ",
+            "mắt đục",
+            "khó nhìn vào ban đêm",
+            "trở nên lạ lẫm với môi trường",
+            "giật mình vì không nhìn được",
+            "không mở được to mắt",
+            "mắt mệt mỏi",
+            "di chuyển khó khăn",
+            "ngại di chuyển vì tầm nhìn"
+        ],
+        "info": "Đục thủy tinh thể là tình trạng mờ đục trong mắt mèo, làm giảm hoặc mất hoàn toàn thị lực. Bệnh thường do tuổi tác, chấn thương, hoặc bệnh lý tiểu đường.",
+        "path": "img/cat/cat32.jpg"
+    }
+]

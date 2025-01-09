@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Virus Herpes của chó (CHV-1)",
+    "info": "Virus Herpes của chó (CHV-1) là một tác nhân quan trọng gây ra hội chứng chó con suy yếu, đặc biệt nguy hiểm đối với chó con sơ sinh. Loại virus này có khả năng tấn công vào các cơ quan nội tạng, gây ra tình trạng nhiễm trùng toàn thân nghiêm trọng. Chó trưởng thành thường không có triệu chứng rõ ràng nhưng có thể là nguồn lây nhiễm cho chó con qua đường tiếp xúc trực tiếp hoặc qua mẹ trong quá trình mang thai.",
+    "symptoms": [
+      "Hội chứng chó con suy yếu",
+      "Khó thở",
+      "Tiết dịch mũi",
+      "Uể oải",
+      "Tiết dịch mắt",
+      "Tử vong ở chó con sơ sinh (trường hợp nặng)"
+    ],
+    "path": "img/dog/dog1.webp"
+  },
+  {
+    "name": "Poxvirus của chó",
+    "info": "Poxvirus của chó là một loại virus gây ra các tổn thương ngoài da như mụn mủ, loét da, kèm theo các triệu chứng toàn thân như sốt và viêm hạch bạch huyết. Loại virus này có khả năng lây lan qua tiếp xúc với dịch tiết từ tổn thương da, đe dọa sức khỏe của cả chó con và chó trưởng thành.",
+    "symptoms": [
+      "Vết loét da",
+      "Mụn mủ",
+      "Sốt",
+      "Viêm hạch bạch huyết"
+    ],
+    "path": "img/dog/dog2.jpg"
+  },
+  {
+    "name": "Adenovirus của chó (CAV-1)",
+    "info": "Adenovirus của chó (CAV-1) là nguyên nhân gây bệnh Viêm gan chó truyền nhiễm (ICH). Virus này lây truyền qua tiếp xúc trực tiếp với phân, nước tiểu, hoặc dịch tiết của chó bị nhiễm. Chó chưa được tiêm phòng đặc biệt dễ bị mắc bệnh, với các triệu chứng nặng nề như sốt cao, vàng da, và tổn thương gan.",
+    "symptoms": [
+      "Sốt",
+      "Uể oải",
+      "Đau bụng",
+      "Nôn mửa",
+      "Tiêu chảy",
+      "Vàng da",
+      "Mắt chuyển màu xanh"
+    ],
+    "path": "img/dog/dog3.jpg"
+  },
+  {
+    "name": "Virus Parvovirus chó (CPV)",
+    "info": "Virus Parvovirus chó (CPV) là một trong những mối đe dọa lớn nhất đối với sức khỏe của chó, đặc biệt là chó con chưa được tiêm phòng. Virus này lây lan qua tiếp xúc với phân nhiễm bệnh và có khả năng tồn tại lâu dài trong môi trường. Bệnh do CPV thường gây tổn thương nghiêm trọng đến đường tiêu hóa, dẫn đến mất nước nhanh chóng và có thể gây tử vong nếu không được điều trị kịp thời.",
+    "symptoms": [
+      "Nôn mửa nghiêm trọng",
+      "Tiêu chảy (thường có máu)",
+      "Sốt",
+      "Uể oải",
+      "Mất nước"
+    ],
+    "path": "img/dog/dog4.jpg"
+  },
+  {
+    "name": "Papillomavirus của chó",
+    "info": "Papillomavirus của chó là một loại virus gây ra các u nhú hoặc mụn cóc trên da, thường xuất hiện ở các khu vực như miệng, mắt, và chân. Mặc dù hầu hết các trường hợp không nguy hiểm đến tính mạng, các u nhú lớn hoặc nằm ở vị trí nhạy cảm có thể gây khó chịu và cần được điều trị.",
+    "symptoms": [
+      "U nhú hoặc mụn cóc trên da",
+      "miệng và mắt",
+      "Có thể gây kích ứng hoặc chảy máu nếu bị tác động"
+    ],
+    "path": "img/dog/dog5.jpg"
+  },
+  {
+    "name": "Virus Enterovirus chó",
+    "info": "Virus Enterovirus chó thường ảnh hưởng đến hệ tiêu hóa và hô hấp, gây ra các triệu chứng như tiêu chảy, nôn mửa, và khó thở. Loại virus này thường lây lan qua tiếp xúc với môi trường hoặc thức ăn nhiễm bệnh, ảnh hưởng chủ yếu đến chó con và chó có hệ miễn dịch yếu.",
+    "symptoms": [
+      "Triệu chứng hô hấp",
+      "Nôn mửa",
+      "Tiêu chảy"
+    ],
+    "path": "img/dog/dog12.jpg"
+  },
+  {
+    "name": "Virus Cúm chó (CIV)",
+    "info": "Virus Cúm chó (CIV) là nguyên nhân gây ra các triệu chứng tương tự như cảm cúm ở người, bao gồm sốt, ho, và chảy nước mũi. Virus này lây lan qua tiếp xúc gần gũi giữa các cá thể chó, đặc biệt ở các nơi tập trung đông đúc như trại nuôi hoặc nhà tạm trú.",
+    "symptoms": [
+      "Sốt",
+      "Ho",
+      "Chảy nước mũi",
+      "Uể oải",
+      "Mất cảm giác thèm ăn"
+    ],
+    "path": "img/dog/dog6.jpg"
+  },
+  {
+    "name": "Virus Chó dại (CDV)",
+    "info": "Virus Chó dại (CDV) là một loại virus rất nguy hiểm, có khả năng lây lan nhanh chóng và gây tổn thương nghiêm trọng đến hệ thần kinh của chó. Bệnh dại có thể dẫn đến tử vong nếu không được phát hiện và điều trị kịp thời. Virus lây truyền qua tiếp xúc với dịch cơ thể, đặc biệt là nước bọt từ động vật bị nhiễm.",
+    "symptoms": [
+      "Sốt",
+      "Ho",
+      "Chảy nước mũi",
+      "Tiêu chảy",
+      "Nôn mửa",
+      "Triệu chứng thần kinh như co giật",
+      "Phát ban da"
+    ],
+    "path": "img/dog/dog7.jpg"
+  },
+  {
+    "name": "Coronavirus chó (CCV)",
+    "info": "Coronavirus chó (CCV) gây ra các triệu chứng tiêu hóa nghiêm trọng, đặc biệt nguy hiểm đối với chó con. Virus này lây lan qua phân nhiễm bệnh và có khả năng làm suy yếu hệ miễn dịch của chó, dẫn đến các bệnh nhiễm trùng thứ phát.",
+    "symptoms": [
+      "Tiêu chảy",
+      "Nôn mửa",
+      "Mất nước"
+    ],
+    "path": "img/dog/dog8.jpg"
+  },
+  {
+    "name": "Virus Dại",
+    "info": "Virus Dại là một mối nguy hiểm lớn cho cả chó và người. Bệnh dại thường biểu hiện qua các triệu chứng thần kinh nghiêm trọng như thay đổi hành vi, hung dữ, và cuối cùng là tử vong. Virus lây truyền qua vết cắn hoặc vết thương từ động vật bị nhiễm.",
+    "symptoms": [
+      "Sốt",
+      "Thay đổi hành vi",
+      "Hung dữ",
+      "Liệt",
+      "Chảy dãi",
+      "Khó nuốt",
+      "Tử vong"
+    ],
+    "path": "img/dog/dog9.jpg"
+  },
+  {
+    "name": "Bệnh viêm phổi do Streptococcus",
+    "info": "Bệnh viêm phổi do Streptococcus gây ra những tổn thương nghiêm trọng đến hệ hô hấp của chó, dẫn đến các triệu chứng như ho, khó thở, và sốt cao. Bệnh thường lây lan qua không khí hoặc tiếp xúc gần với chó nhiễm bệnh.",
+    "symptoms": [
+      "Ho",
+      "Khó thở",
+      "Sốt",
+      "Chảy nước mũi",
+      "Uể oải",
+      "Giảm ăn"
+    ],
+    "path": "img/dog/dog10.jpeg"
+  },
+  {
+    "name": "Bệnh viêm màng tim (Endocarditis)",
+    "info": "Viêm màng tim là một tình trạng nghiêm trọng, thường do vi khuẩn gây ra, ảnh hưởng đến các van tim và màng trong tim của chó. Bệnh này có thể dẫn đến các triệu chứng toàn thân như sốt, đau ở vùng chân, và giảm sức đề kháng.",
+    "symptoms": [
+      "Mệt mỏi",
+      "Sốt",
+      "Khó thở",
+      "Ho",
+      "Sưng chân",
+      "Giảm sức đề kháng"
+    ],
+    "path": "img/dog/dog11.jpg"
+  },
+  {
+    "name": "Bệnh viêm khớp do Streptococcus",
+    "info": "Bệnh viêm khớp do Streptococcus thường dẫn đến tình trạng sưng, đau và viêm tại các khớp, gây khó khăn cho chó trong việc di chuyển. Nếu không được điều trị, tình trạng này có thể trở nên mãn tính và ảnh hưởng nghiêm trọng đến chất lượng cuộc sống của chó.",
+    "symptoms": [
+      "Viêm",
+      "Đau",
+      "Sưng khớp",
+      "Đi lại khó khăn",
+      "Đau khi chạm vào khớp"
+    ],
+    "path": "img/dog/dog13.png"
+  },
+  {
+    "name": "Bệnh viêm vú (Mastitis)",
+    "info": "Viêm vú là một tình trạng phổ biến ở chó cái, đặc biệt trong giai đoạn nuôi con. Bệnh gây sưng đau ở vùng vú, có thể dẫn đến hình thành mủ hoặc dịch, kèm theo các triệu chứng toàn thân như sốt và bỏ ăn.",
+    "symptoms": [
+      "Sưng và đau ở vú",
+      "Có mủ hoặc dịch từ vú",
+      "Chó bị sốt và bỏ ăn"
+    ],
+    "path": "img/dog/dog14.png"
+  },
+  {
+    "name": "Nhiễm trùng da do Staphylococcus (Pyoderma)",
+    "info": "Nhiễm trùng da do Staphylococcus là một bệnh phổ biến ở chó, đặc biệt ở những vùng da dễ bị tổn thương. Triệu chứng bao gồm mẩn đỏ, ngứa, và mụn mủ, có thể gây rụng lông và viêm da nghiêm trọng nếu không được điều trị.",
+    "symptoms": [
+      "Mẩn đỏ",
+      "Viêm da",
+      "Mủ",
+      "Vết loét",
+      "Ngứa",
+      "Rụng lông"
+    ],
+    "path": "img/dog/dog15.webp"
+  },
+  {
+    "name": "Nhiễm trùng xương (Osteomyelitis)",
+    "info": "Nhiễm trùng xương là một tình trạng hiếm gặp nhưng nghiêm trọng, có thể gây tổn thương lâu dài nếu không được điều trị. Bệnh thường bắt đầu từ một vết thương nhiễm trùng và lan vào xương, gây đau, sưng, và sốt kéo dài.",
+    "symptoms": [
+      "Đau xương",
+      "Sưng vùng xương bị nhiễm trùng",
+      "Lặp lại sốt",
+      "Khó di chuyển"
+    ],
+    "path": "img/dog/dog13.png"
+  },
+  {
+    "name": "Viêm tai ngoài (Otitis externa)",
+    "info": "Viêm tai ngoài là một bệnh phổ biến ở chó, thường do nhiễm khuẩn hoặc nấm gây ra. Triệu chứng bao gồm gãi tai thường xuyên, mùi hôi từ tai, và có dịch mủ chảy ra. Nếu không điều trị, bệnh có thể lan sâu vào trong tai và gây mất thính lực.",
+    "symptoms": [
+      "Chó gãi tai",
+      "Mùi hôi từ tai",
+      "Tai đỏ",
+      "Có dịch hoặc mủ chảy ra"
+    ],
+    "path": "img/dog/dog16.jpg"
+  },
+  {
+    "name": "Nhiễm trùng đường tiết niệu (UTI)",
+    "info": "Nhiễm trùng đường tiết niệu (UTI) là một vấn đề thường gặp ở chó, đặc biệt là chó cái. Bệnh gây khó khăn trong việc đi tiểu, đôi khi có máu trong nước tiểu, và làm chó cảm thấy đau đớn khi đi vệ sinh. Nếu không được điều trị, UTI có thể dẫn đến các vấn đề nghiêm trọng hơn như nhiễm trùng thận.",
+    "symptoms": [
+      "Tiểu đau",
+      "Tiểu ra máu",
+      "Đi tiểu thường xuyên",
+      "Lười uống nước"
+    ],
+    "path": "img/dog/dog17.jpg"
+  },
+  {
+    "name": "Bệnh Dại (Rabies)",
+    "symptoms": [
+      "Hành động bất thường",
+      "đi lại không yên",
+      "sợ ánh sáng",
+      "chảy nước dãi nhiều",
+      "kêu hú vào ban đêm",
+      "không nhận ra chủ",
+      "tấn công bất ngờ",
+      "mắt đỏ ngầu",
+      "điên loạn",
+      "gặm đồ vật",
+      "lên cơn co giật",
+      "chán ăn",
+      "bỏ ăn"
+    ],
+    "info": "Bệnh dại là một bệnh truyền nhiễm do virus Rabies gây ra, lây truyền qua vết cắn hoặc vết trầy xước từ động vật nhiễm bệnh, đặc biệt là chó và mèo. Virus tấn công hệ thần kinh trung ương, dẫn đến viêm não và tử vong. Đây là một bệnh nguy hiểm có tỷ lệ tử vong gần như 100% khi đã phát bệnh. Bệnh có thể phòng ngừa bằng cách tiêm phòng dại định kỳ.",
+    "path": "img/dog/dog18.jpg"
+  },
+  {
+    "name": "Bệnh Care (Sài sốt chó)",
+    "symptoms": [
+      "Buồn bã",
+      "ủ rũ",
+      "bỏ ăn",
+      "lười vận động",
+      "sốt cao",
+      "nhiệt độ cơ thể lên đến 40-41",
+      "5°C",
+      "mắt sưng",
+      "chảy nước mắt",
+      "chảy mủ xanh ở mũi",
+      "khó thở",
+      "nhịp thở tăng",
+      "nôn khan",
+      "nôn bọt vàng",
+      "tiêu chảy",
+      "phân lỏng màu xám vàng",
+      "phân có máu",
+      "co giật",
+      "điên loạn",
+      "mắt trũng",
+      "bụng hóp"
+    ],
+    "info": "Bệnh Care là một bệnh do virus Morbillivirus gây ra, lây nhiễm qua đường hô hấp và tiếp xúc trực tiếp với dịch tiết của chó bị bệnh. Đây là một trong những bệnh truyền nhiễm nguy hiểm nhất ở chó, đặc biệt ảnh hưởng đến chó con chưa được tiêm phòng. Virus gây tổn thương nặng nề đến hệ hô hấp, tiêu hóa, và thần kinh. Bệnh thường tiến triển nhanh và tỷ lệ tử vong cao nếu không được điều trị.",
+    "path": "img/dog/dog19.jpg"
+  },
+  {
+    "name": "Bệnh Parvovirus",
+    "symptoms": [
+      "Bỏ ăn",
+      "kiệt sức",
+      "ói nhiều lần",
+      "tiêu chảy ra máu tươi",
+      "phân nhiều",
+      "ói mửa",
+      "khó thở",
+      "rên rỉ",
+      "nôn khan",
+      "phân chuyển màu vàng xám hoặc nâu đậm"
+    ],
+    "info": "Bệnh Parvovirus là một bệnh truyền nhiễm cực kỳ nguy hiểm ở chó, đặc biệt là chó con từ 6 tuần đến 6 tháng tuổi. Virus Parvovirus gây tổn thương nghiêm trọng đến niêm mạc đường ruột và hệ miễn dịch, dẫn đến tiêu chảy nặng, mất nước và nhiễm trùng máu. Virus này rất dễ lây lan qua phân hoặc bề mặt bị nhiễm bệnh và có sức sống rất lâu trong môi trường.",
+    "path": "img/dog/dog20.jpg"
+  },
+  {
+    "name": "Bệnh Ho Cũi Chó (Kennel Cough)",
+    "symptoms": [
+      "Ho khạc kéo dài: Từ 7-21 ngày",
+      "ho có thể khan hoặc có đờm",
+      "mắt có nhiều ghèn",
+      "liếm mũi thường xuyên: mũi khô",
+      "chảy dịch xanh",
+      "Tiêu chảy: Phân nát",
+      "có máu và hôi tanh"
+    ],
+    "info": "Bệnh ho cũi chó là một bệnh viêm đường hô hấp trên do vi khuẩn hoặc virus gây ra, thường lây lan trong các khu vực đông chó như cũi, trại nuôi hoặc nơi chăm sóc chó. Bệnh gây viêm khí quản và phổi, làm chó bị ho khạc kéo dài. Bệnh tuy không nguy hiểm nhưng nếu không được điều trị kịp thời, có thể dẫn đến biến chứng viêm phổi nghiêm trọng.",
+    "path": "img/dog/dog21.jpg"
+  },
+  {
+    "name": "Bệnh viêm gan truyền nhiễm",
+    "symptoms": [
+      "Bỏ ăn",
+      "hôn mê",
+      "tiêu chảy có máu",
+      "sốt cao: > 39°C kéo dài 1-2 ngày có thể tái phát lại sau 1 tuần",
+      "nôn ra máu: đau quằn quại",
+      "xuất huyết dưới da",
+      "chảy máu quanh răng",
+      "vàng da"
+    ],
+    "info": "Bệnh viêm gan truyền nhiễm ở chó là một bệnh do virus Adenovirus-1 gây ra, làm tổn thương gan và các cơ quan nội tạng khác như thận và mắt. Virus lây truyền qua đường tiếp xúc với nước tiểu, phân, hoặc dịch cơ thể của chó nhiễm bệnh. Bệnh có thể gây tổn thương gan nặng nề, vàng da và tử vong nếu không được điều trị.",
+    "path": "img/dog/dog22.jpg"
+  },
+  {
+    "name": "Bệnh Xoắn Khuẩn Lepto",
+    "symptoms": [
+      "Xuất huyết da",
+      "xuất huyết niêm mạc",
+      "ói ra máu",
+      "vàng da",
+      "khó thở",
+      "nôn mửa",
+      "niêm mạc vàng",
+      "chân tay lở loét"
+    ],
+    "info": "Bệnh xoắn khuẩn Leptospirosis là một bệnh truyền nhiễm do vi khuẩn Leptospira gây ra, lây lan qua nước tiểu của động vật nhiễm bệnh, đặc biệt trong môi trường ẩm ướt. Bệnh gây tổn thương gan, thận, và hệ tim mạch. Đây là một bệnh có thể lây sang người, vì vậy cần đặc biệt chú ý trong việc kiểm soát và phòng ngừa.",
+    "path": "img/dog/dog23.jpg"
+  },
+  {
+    "name": "Bệnh viêm dạ dày",
+    "symptoms": [
+      "Sốt cao: bỏ ăn",
+      "run rẩy",
+      "Nôn mửa liên tục kèm tiêu chảy",
+      "phân màu nâu sẫm có mùi tanh",
+      "nằm yên một chỗ",
+      "kiệt sức"
+    ],
+    "info": "Bệnh viêm dạ dày ở chó thường do vi khuẩn, virus, hoặc chế độ ăn uống không hợp lý gây ra. Các yếu tố như thức ăn ôi thiu, nhiễm khuẩn, hoặc căng thẳng cũng có thể gây bệnh. Viêm dạ dày làm tổn thương niêm mạc dạ dày, dẫn đến khó tiêu và suy nhược cơ thể. Nếu không được điều trị, bệnh có thể dẫn đến biến chứng nặng như viêm loét hoặc xuất huyết dạ dày.",
+    "path": "img/dog/dog24.jpg"
+  },
+  {
+    "name": "Bệnh viêm phế quản",
+    "symptoms": [
+      "Khó thở đặc biệt vào buổi sáng",
+      "thở khò khè: có tiếng ran",
+      "sốt cao: chảy nước mắt và nước mũi liên tục",
+      "ho ra đờm nhầy"
+    ],
+    "info": "Bệnh viêm phế quản là tình trạng viêm nhiễm đường hô hấp dưới ở chó, thường do vi khuẩn hoặc virus gây ra. Bệnh làm tắc nghẽn đường thở, gây khó thở và mệt mỏi. Viêm phế quản có thể xuất hiện đơn lẻ hoặc là biến chứng của các bệnh khác như cảm lạnh hoặc ho cũi chó. Nếu không được điều trị, bệnh có thể chuyển sang viêm phổi.",
+    "path": "img/dog/dog25.jpg"
+  },
+  {
+    "name": "Bệnh Sán Chó (Toxocara Canis)",
+    "symptoms": [
+      "Gầy yếu",
+      "lông xơ xác",
+      "nôn mửa thường xuyên",
+      "bụng phình to",
+      "tiêu chảy mãn tính",
+      "phân lỏng hoặc có máu",
+      "ngứa ngáy",
+      "bồn chồn"
+    ],
+    "info": "Bệnh sán chó là bệnh nhiễm ký sinh trùng do sán dây hoặc giun tròn Toxocara canis gây ra. Chó bị nhiễm sán thường thông qua việc tiếp xúc với đất, thức ăn hoặc nước uống bị nhiễm trứng sán. Bệnh làm suy giảm sức khỏe tổng thể của chó và có thể lây nhiễm sang người, đặc biệt là trẻ em.",
+    "path": "img/dog/dog26.jpg"
+  },
+  {
+    "name": "Bệnh Ghẻ Demodex",
+    "symptoms": [
+      "Da sần sùi",
+      "ngứa ngáy",
+      "lông rụng từng mảng",
+      "xuất hiện mụn nhọt",
+      "da có vảy",
+      "có mùi hôi khó chịu",
+      "lở loét trên da"
+    ],
+    "info": "Bệnh ghẻ Demodex là một bệnh da liễu do ký sinh trùng Demodex gây ra. Loài ghẻ này thường ký sinh trên da và trong nang lông của chó. Khi hệ miễn dịch suy yếu, Demodex có thể phát triển không kiểm soát, gây ra ngứa ngáy, rụng lông và viêm da nghiêm trọng. Bệnh cần được điều trị kịp thời để tránh nhiễm trùng thứ cấp.",
+    "path": "img/dog/dog27.jpg"
+  },
+  {
+    "name": "Bệnh Nấm Da",
+    "symptoms": [
+      "Lông rụng thành từng mảng",
+      "xuất hiện các vùng da đỏ",
+      "bong vảy",
+      "da khô và ngứa",
+      "có mùi hôi",
+      "vết thương lở loét"
+    ],
+    "info": "Bệnh nấm da là một bệnh nhiễm trùng da do nấm Microsporum hoặc Trichophyton gây ra. Chó thường nhiễm nấm qua môi trường bị ô nhiễm hoặc tiếp xúc với chó bị nhiễm bệnh. Nấm da không chỉ gây khó chịu cho chó mà còn có thể lây sang người. Điều trị sớm là cần thiết để kiểm soát bệnh.",
+    "path": "img/dog/dog28.jpg"
+  },
+  {
+    "name": "Bệnh Viêm Tai",
+    "symptoms": [
+      "Dịch tai tiết nhiều",
+      "tai có mùi hôi",
+      "chó hay lắc đầu hoặc cọ xát tai",
+      "đỏ và sưng tai",
+      "mất thăng bằng",
+      "đau khi chạm vào tai"
+    ],
+    "info": "Bệnh viêm tai ở chó thường do nhiễm trùng vi khuẩn, nấm hoặc ký sinh trùng gây ra. Tai chó bị viêm sẽ tiết dịch và có mùi hôi. Nếu không được điều trị, viêm tai có thể gây ra các biến chứng nghiêm trọng như thủng màng nhĩ hoặc mất thính giác.",
+    "path": "img/dog/dog29.jpg"
+  },
+  {
+    "name": "Bệnh Viêm Nướu",
+    "symptoms": [
+      "Chảy máu nướu",
+      "hôi miệng",
+      "khó nhai",
+      "nướu đỏ và sưng",
+      "răng lung lay",
+      "giảm ăn",
+      "mệt mỏi"
+    ],
+    "info": "Bệnh viêm nướu là một bệnh răng miệng phổ biến ở chó, thường do vi khuẩn tích tụ trong mảng bám răng gây ra. Viêm nướu nếu không được điều trị sẽ tiến triển thành viêm nha chu, gây rụng răng và các vấn đề sức khỏe nghiêm trọng khác.",
+    "path": "img/dog/dog30.jpg"
+  },
+  {
+    "name": "Bệnh Loạn Sản Xương Hông",
+    "symptoms": [
+      "Khó khăn khi di chuyển",
+      "đi khập khiễng",
+      "giảm hoạt động",
+      "đau khi chạm vào hông",
+      "khó đứng dậy sau khi nằm"
+    ],
+    "info": "Bệnh loạn sản xương hông là một rối loạn di truyền ảnh hưởng đến khớp hông của chó. Khớp hông không phát triển đúng cách, dẫn đến đau và thoái hóa khớp. Bệnh thường gặp ở các giống chó lớn như Labrador, Golden Retriever, và German Shepherd.",
+    "path": "img/dog/dog31.jpg"
+  },
+  {
+    "name": "Bệnh Đục Thủy Tinh Thể",
+    "symptoms": [
+      "Mắt mờ đục",
+      "chó va vào vật cản",
+      "giảm thị lực",
+      "mất phương hướng",
+      "đỏ mắt",
+      "chảy nước mắt"
+    ],
+    "info": "Bệnh đục thủy tinh thể là một rối loạn ảnh hưởng đến mắt, làm thủy tinh thể trở nên mờ đục và giảm thị lực. Nguyên nhân có thể là do di truyền, chấn thương, hoặc các bệnh lý khác như tiểu đường. Bệnh cần được chẩn đoán và điều trị sớm để tránh mất thị lực vĩnh viễn.",
+    "path": "img/dog/dog32.jpg"
+  }
+]

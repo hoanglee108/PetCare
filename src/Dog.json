@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Virus Herpes của chó (CHV-1)",
+        "info": "Virus này gây ra hội chứng chó con suy yếu và các triệu chứng nghiêm trọng ở chó con sơ sinh.",
+        "symptoms": ["Hội chứng chó con suy yếu","Khó thở","Tiết dịch mũi","Uể oải","Tiết dịch mắt","Tử vong ở chó con sơ sinh (trường hợp nặng)"],
+        "path": "img/dog/dog1.webp"
+    },
+    {
+        "name": "Poxvirus của chó",
+        "info": "Virus gây ra các tổn thương ngoài da và triệu chứng toàn thân.",
+        "symptoms": ["Vết loét da","Mụn mủ","Sốt","Viêm hạch bạch huyết"],
+        "path": "img/dog/dog2.jpg"
+    },
+    {
+        "name": "Adenovirus của chó (CAV-1)",
+        "info": "Gây ra bệnh Viêm gan chó truyền nhiễm (ICH), thường thấy ở chó chưa được tiêm phòng.",
+        "symptoms": ["Sốt","Uể oải","Đau bụng","Nôn mửa","Tiêu chảy","Vàng da","Mắt chuyển màu xanh"],
+        "path": "img/dog/dog3.jpg"
+    },
+    {
+        "name": "Virus Parvovirus chó (CPV)",
+        "info": "Một loại virus rất nguy hiểm đối với chó con và chó chưa được tiêm phòng.",
+        "symptoms": ["Nôn mửa nghiêm trọng","Tiêu chảy (thường có máu)","Sốt","Uể oải","Mất nước"],
+        "path": "img/dog/dog4.jpg"
+    },
+    {
+        "name": "Papillomavirus của chó",
+        "info": "Virus gây ra các u nhú hoặc mụn cóc, có thể ảnh hưởng đến các vùng da nhạy cảm.",
+        "symptoms": ["U nhú hoặc mụn cóc trên da, miệng và mắt","Có thể gây kích ứng hoặc chảy máu nếu bị tác động"],
+        "path": "img/dog/dog5.jpg"
+    },
+    {
+        "name": "Virus Enterovirus chó",
+        "info": "Virus này chủ yếu gây ra triệu chứng đường tiêu hóa và hô hấp.",
+        "symptoms": ["Triệu chứng hô hấp","Nôn mửa","Tiêu chảy"],
+        "path": "img/dog/dog12.jpg"
+    },
+    {
+        "name": "Virus Cúm chó (CIV)",
+        "info": "Virus cúm gây các triệu chứng tương tự cảm cúm ở người.",
+        "symptoms": ["Sốt","Ho","Chảy nước mũi","Uể oải","Mất cảm giác thèm ăn"],
+        "path": "img/dog/dog6.jpg"
+    },
+    {
+        "name": "Virus Chó dại (CDV)",
+        "info": "Virus này gây bệnh dại, đặc biệt nguy hiểm với hệ thần kinh của chó.",
+        "symptoms": ["Sốt","Ho","Chảy nước mũi","Tiêu chảy","Nôn mửa","Triệu chứng thần kinh như co giật","Phát ban da"],
+        "path": "img/dog/dog7.jpg"
+    },
+    {
+        "name": "Coronavirus chó (CCV)",
+        "info": "Gây các triệu chứng tiêu hóa, đặc biệt nghiêm trọng với chó con.",
+        "symptoms": ["Tiêu chảy","Nôn mửa","Mất nước"],
+        "path": "img/dog/dog8.jpg"
+    },
+    {
+        "name": "Virus Dại",
+        "info": "Virus gây bệnh dại, có thể dẫn đến tử vong nếu không được điều trị.",
+        "symptoms": ["Sốt","Thay đổi hành vi","Hung dữ","Liệt","Chảy dãi","Khó nuốt","Tử vong"],
+        "path": "img/dog/dog9.jpg"
+    },
+    {
+        "name": "Bệnh viêm phổi do Streptococcus",
+        "info": "Bệnh viêm phổi do Streptococcus gây ra những triệu chứng như ho, khó thở, sốt, và có thể làm chó mệt mỏi và chán ăn.",
+        "symptoms": ["Ho", "Khó thở", "Sốt", "Chảy nước mũi", "Uể oải", "Giảm ăn"],
+        "path": "img/dog/dog10.jpeg"
+    },
+    {
+        "name": "Bệnh viêm màng tim (Endocarditis)",
+        "info": "Viêm màng tim có thể gây ra sốt, khó thở, và đau vùng chân. Chó có thể bị yếu và giảm sức đề kháng.",
+        "symptoms": ["Mệt mỏi", "Sốt", "Khó thở", "Ho", "Sưng chân", "Giảm sức đề kháng"],
+        "path": "img/dog/dog11.jpg"
+    },
+    {
+        "name": "Bệnh viêm khớp do Streptococcus",
+        "info": "Bệnh viêm khớp làm chó bị sưng và đau khớp, gây khó khăn khi di chuyển và có thể đau khi chạm vào khớp.",
+        "symptoms": ["Viêm", "Đau", "Sưng khớp", "Đi lại khó khăn", "Đau khi chạm vào khớp"],
+        "path": "img/dog/dog13.png"
+    },
+    {
+        "name": "Bệnh viêm vú (Mastitis)",
+        "info": "Viêm vú gây sưng và đau vùng vú, có thể có mủ hoặc dịch và làm chó sốt và mất cảm giác thèm ăn.",
+        "symptoms": ["Sưng và đau ở vú", "Có mủ hoặc dịch từ vú", "Chó bị sốt và bỏ ăn"],
+        "path": "img/dog/dog14.png"
+    },
+    {
+        "name": "Nhiễm trùng da do Staphylococcus (Pyoderma)",
+        "info": "Nhiễm trùng da gây mẩn đỏ, ngứa và mủ, có thể gây rụng lông và da có thể bị dày lên hoặc có mụn mủ.",
+        "symptoms": ["Mẩn đỏ", "Viêm da", "Mủ", "Vết loét", "Ngứa", "Rụng lông"],
+        "path": "img/dog/dog15.webp"
+    },
+    {
+        "name": "Nhiễm trùng xương (Osteomyelitis)",
+        "info": "Nhiễm trùng xương có thể gây đau và sưng ở vùng xương, làm chó khó di chuyển và có thể bị sốt.",
+        "symptoms": ["Đau xương", "Sưng vùng xương bị nhiễm trùng", "Lặp lại sốt", "Khó di chuyển"],
+        "path": "img/dog/dog13.png"
+    },
+    {
+        "name": "Viêm tai ngoài (Otitis externa)",
+        "info": "Viêm tai làm chó gãi tai, có mùi hôi từ tai và có thể có mủ hoặc dịch chảy ra từ tai.",
+        "symptoms": ["Chó gãi tai", "Mùi hôi từ tai", "Tai đỏ", "Có dịch hoặc mủ chảy ra"],
+        "path": "img/dog/dog16.jpg"
+    },
+    {
+        "name": "Nhiễm trùng đường tiết niệu (UTI)",
+        "info": "Nhiễm trùng đường tiết niệu gây tiểu khó, đôi khi có máu, và làm chó đau khi đi tiểu.",
+        "symptoms": ["Đi tiểu khó", "Tiểu ra máu", "Tiểu không tự chủ", "Đau khi tiểu"],
+        "path": "img/dog/dog17.png"
+    }
+]
+  

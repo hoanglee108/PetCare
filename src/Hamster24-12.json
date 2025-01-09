@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Rotavirus",
+    "info": "Rotavirus là một loại virus phổ biến gây tiêu chảy nặng và mất nước ở hamster, đặc biệt nguy hiểm đối với hamster con. Bệnh có khả năng lây lan nhanh trong môi trường nuôi nhốt đông đúc. Nếu không được điều trị kịp thời, có thể gây tử vong do mất nước nghiêm trọng.",
+    "symptoms": "Tiêu chảy thường xuyên, có thể kèm chất nhầy hoặc máu, Mất nước dẫn đến da mất đàn hồi, Hamster uể oải, ít hoạt động",
+    "path": "img/hamster/hamster1.jpg"
+  },
+  {
+    "name": "Nhiễm trùng Streptococcus",
+    "info": "Nhiễm trùng Streptococcus ở hamster là một tình trạng do vi khuẩn gây ra, thường xuất hiện dưới dạng các vết loét ngoài da. Bệnh có thể đi kèm với sốt và làm hamster yếu đi nhanh chóng. Nếu không được điều trị, vi khuẩn có thể xâm nhập sâu hơn, dẫn đến nhiễm trùng toàn thân.",
+    "symptoms": "Xuất hiện vết loét hoặc sưng tấy trên da, Hamster trở nên yếu ớt và ít di chuyển, Sốt hoặc thân nhiệt tăng",
+    "path": "img/hamster/hamster2.jpg"
+  },
+  {
+    "name": "Bệnh viêm phổi do Streptococcus",
+    "info": "Viêm phổi do Streptococcus là một bệnh hô hấp nghiêm trọng ở hamster, tuy hiếm gặp nhưng có thể đe dọa tính mạng nếu không được phát hiện sớm. Bệnh thường xảy ra khi hamster bị căng thẳng hoặc sống trong môi trường không vệ sinh.",
+    "symptoms": "Khó thở, thường kèm theo tiếng thở khò khè, Ho liên tục, đặc biệt vào ban đêm, Giảm cảm giác thèm ăn và uống nước, Hamster trở nên mệt mỏi, thường nằm một chỗ",
+    "path": "img/hamster/hamster3.png"
+  },
+  {
+    "name": "Nhiễm trùng da do Staphylococcus",
+    "info": "Staphylococcus là một loại vi khuẩn gây nhiễm trùng da ở hamster. Bệnh này biểu hiện qua các vết loét, mụn mủ và vùng da đỏ tấy. Hamster thường cảm thấy khó chịu, liếm hoặc gãi khu vực bị nhiễm trùng, làm tăng nguy cơ lây lan vi khuẩn.",
+    "symptoms": "Xuất hiện vết loét trên da, đôi khi có mủ, Da xung quanh bị đỏ và sưng, Hamster gãi hoặc liếm nhiều hơn bình thường, Hamster có thể cảm thấy đau khi chạm vào vùng bị ảnh hưởng",
+    "path": "img/hamster/hamster4.jpg"
+  },
+  {
+    "name": "Nhiễm trùng đường hô hấp (Pneumonia)",
+    "info": "Pneumonia là một bệnh nhiễm trùng đường hô hấp thường gặp ở hamster, đặc biệt trong điều kiện môi trường ẩm ướt hoặc lạnh. Bệnh này gây khó thở, thở nhanh, và có thể dẫn đến tử vong nếu không được điều trị kịp thời.",
+    "symptoms": "Hamster thở nhanh hoặc khó thở, Có tiếng thở rít hoặc khò khè, Dịch nhầy hoặc mủ chảy ra từ mũi, Hamster trở nên yếu, giảm hoạt động",
+    "path": "img/hamster/hamster5.webp"
+  },
+  {
+    "name": "Nhiễm trùng vết thương (Abscesses)",
+    "info": "Nhiễm trùng vết thương là tình trạng phổ biến ở hamster do các vết cắn hoặc tổn thương ngoài da. Vùng bị nhiễm trùng thường sưng tấy, có mủ và có thể làm hamster yếu đi. Việc điều trị sớm giúp ngăn ngừa nhiễm trùng lây lan.",
+    "symptoms": "Vùng bị tổn thương sưng và có mủ, Hamster tỏ ra đau hoặc không thoải mái khi chạm vào vùng bị nhiễm trùng, Hamster trở nên mệt mỏi và ít ăn uống",
+    "path": "img/hamster/hamster6.webp"
+  },
+  {
+    "name": "Nhiễm trùng đường tiêu hóa (Enterotoxemia)",
+    "info": "Enterotoxemia là một bệnh nhiễm trùng đường tiêu hóa nặng ở hamster, do vi khuẩn sản sinh độc tố trong ruột. Bệnh này gây tiêu chảy nghiêm trọng, mất nước, và có thể dẫn đến tử vong nếu không được điều trị kịp thời.",
+    "symptoms": "Tiêu chảy liên tục, thường có mùi hôi, Mất nước nghiêm trọng, da trở nên khô, Hamster giảm cảm giác thèm ăn và trở nên yếu, Có thể xuất hiện sốt",
+    "path": "img/hamster/hamster7.webp"
+  }
+]

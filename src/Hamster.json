@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Rotavirus",
+        "info": "Virus này gây tiêu chảy và mất nước, đặc biệt nghiêm trọng ở hamster con.",
+        "symptoms": ["Tiêu chảy","Mất nước"],
+        "path": "img/hamster/hamster1.jpg"
+    },
+    {
+        "name": "Nhiễm trùng Streptococcus",
+        "info": "Nhiễm trùng Streptococcus có thể gây ra các vết loét ngoài da, sốt và làm hamster cảm thấy yếu và mệt mỏi.",
+        "symptoms": ["Vết loét ngoài da", "Sốt", "Yếu và mệt mỏi"],
+        "path": "img/hamster/hamster2.jpg"
+    },
+    {
+        "name": "Bệnh viêm phổi do Streptococcus (ít gặp hơn)",
+        "info": "Viêm phổi do Streptococcus gây khó thở, ho và có thể khiến hamster giảm ăn và uống.",
+        "symptoms": ["Khó thở", "Ho", "Thở rít", "Giảm ăn uống"],
+        "path": "img/hamster/hamster3.png"
+    },
+    {
+        "name": "Nhiễm trùng da do Staphylococcus",
+        "info": "Nhiễm trùng da Staphylococcus gây vết loét và mụn mủ, hamster có thể liếm hoặc gãi khu vực bị nhiễm trùng.",
+        "symptoms": ["Vết loét", "Mụn mủ", "Da đỏ", "Hamster liếm hoặc gãi"],
+        "path": "img/hamster/hamster4.jpg"
+    },
+    {
+        "name": "Nhiễm trùng đường hô hấp (Pneumonia)",
+        "info": "Nhiễm trùng đường hô hấp gây khó thở, ho và thở rít, đôi khi có dịch nhầy hoặc mủ từ mũi.",
+        "symptoms": ["Khó thở", "Thở nhanh", "Thở rít", "Có dịch nhầy hoặc mủ từ mũi"],
+        "path": "img/hamster/hamster5.webp"
+    },
+    {
+        "name": "Nhiễm trùng vết thương (Abscesses)",
+        "info": "Nhiễm trùng vết thương gây sưng, mủ và có thể làm hamster cảm thấy yếu và mệt mỏi.",
+        "symptoms": ["Sưng vùng bị nhiễm trùng", "Có mủ hoặc dịch", "Yếu hoặc mệt mỏi"],
+        "path": "img/hamster/hamster6.webp"
+    },
+    {
+        "name": "Nhiễm trùng đường tiêu hóa (Enterotoxemia)",
+        "info": "Enterotoxemia gây tiêu chảy, mất nước, mệt mỏi và có thể dẫn đến giảm ăn và sốt.",
+        "symptoms": ["Tiêu chảy", "Mất nước", "Mệt mỏi", "Giảm ăn", "Sốt"],
+        "path": "img/hamster/hamster7.webp"
+    }
+]
