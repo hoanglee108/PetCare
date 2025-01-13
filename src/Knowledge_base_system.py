@@ -41,7 +41,7 @@ class KnowledgeBaseSystem:
         all_symptoms = []
         # Tạo một danh sách tất cả các triệu chứng từ dữ liệu bệnh để làm cơ sở so sánh
         for disease in self.diseases_data:
-            all_symptoms.extend([s.lower() for s in disease["symptoms"]])
+            all_symptoms.extend([s.lower() for s in disease.get("symptoms", [])])
 
         # Loại bỏ các triệu chứng trùng lặp
         all_symptoms = list(set(all_symptoms))
@@ -62,10 +62,18 @@ class KnowledgeBaseSystem:
                 best_match_disease = disease
 
         if best_match_disease:
+            # Kiểm tra nếu không có trường 'how_to_care', gán giá trị mặc định
+            how_to_care = best_match_disease.get("how_to_care", ["Không có hướng dẫn chăm sóc"])
+            
+            # Đảm bảo "how_to_care" là một danh sách
+            if isinstance(how_to_care, str):
+                how_to_care = [how_to_care]
+
             return [{
                 "name": best_match_disease["name"],
-                "info": best_match_disease["info"],
-                "path": best_match_disease["path"]
+                "info": best_match_disease.get("info", "Không có thông tin bệnh"),
+                "path": best_match_disease.get("path", ""),
+                "how_to_care": how_to_care,  # Trả về danh sách hướng dẫn chăm sóc
             }]
         else:
-            return ["Không tìm thấy bệnh phù hợp"]
+            return [{"message": "Không tìm thấy bệnh phù hợp", "diseases": []}]

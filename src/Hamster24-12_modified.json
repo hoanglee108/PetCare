@@ -9,7 +9,12 @@
       "Hamster uể oải",
       "ít hoạt động"
     ],
-    "path": "img/hamster/hamster1.jpg"
+    "path": "img/hamster/hamster1.jpg",
+    "how_to_care": [
+      "Đảm bảo hamster được uống nước đầy đủ để tránh mất nước",
+      "Cung cấp thức ăn dễ tiêu hóa và giữ vệ sinh chuồng nuôi",
+      "Nếu tình trạng không cải thiện, tham khảo ý kiến bác sĩ thú y để được điều trị bằng thuốc kháng virus."
+    ]
   },
   {
     "name": "Nhiễm trùng Streptococcus",
@@ -19,7 +24,11 @@
       "Hamster trở nên yếu ớt và ít di chuyển",
       "Sốt hoặc thân nhiệt tăng"
     ],
-    "path": "img/hamster/hamster2.jpg"
+    "path": "img/hamster/hamster2.jpg",
+    "how_to_care": [
+      "Giữ vùng bị nhiễm sạch sẽ và bôi thuốc kháng khuẩn theo chỉ dẫn của bác sĩ thú y",
+      "Đảm bảo hamster nghỉ ngơi và tăng cường dinh dưỡng để cải thiện sức đề kháng"
+    ]
   },
   {
     "name": "Bệnh viêm phổi do Streptococcus",
@@ -33,7 +42,12 @@
       "Hamster trở nên mệt mỏi",
       "thường nằm một chỗ"
     ],
-    "path": "img/hamster/hamster3.png"
+    "path": "img/hamster/hamster3.png",
+    "how_to_care": [
+      "Đặt hamster ở nơi ấm áp và thông thoáng",
+      "Tham khảo ý kiến bác sĩ thú y để dùng kháng sinh và chăm sóc hỗ trợ",
+      "Tránh làm hamster căng thẳng để bệnh không nặng thêm"
+    ]
   },
   {
     "name": "Nhiễm trùng da do Staphylococcus",
@@ -45,7 +59,11 @@
       "Hamster gãi hoặc liếm nhiều hơn bình thường",
       "Hamster có thể cảm thấy đau khi chạm vào vùng bị ảnh hưởng"
     ],
-    "path": "img/hamster/hamster4.jpg"
+    "path": "img/hamster/hamster4.jpg",
+    "how_to_care": [
+      "Vệ sinh vùng da bị nhiễm và ngăn hamster gãi thêm bằng cách băng lại nếu cần thiết",
+      "Sử dụng thuốc kháng sinh theo chỉ định bác sĩ thú y và theo dõi tình trạng thường xuyên"
+    ]
   },
   {
     "name": "Nhiễm trùng đường hô hấp (Pneumonia)",
@@ -57,7 +75,11 @@
       "Hamster trở nên yếu",
       "giảm hoạt động"
     ],
-    "path": "img/hamster/hamster5.webp"
+    "path": "img/hamster/hamster5.webp",
+    "how_to_care": [
+      "Giữ hamster ở môi trường khô ráo và ấm áp",
+      "Cung cấp dinh dưỡng đủ chất và liên hệ bác sĩ thú y để sử dụng thuốc kháng sinh nếu cần thiết"
+    ]
   },
   {
     "name": "Nhiễm trùng vết thương (Abscesses)",
@@ -67,7 +89,12 @@
       "Hamster tỏ ra đau hoặc không thoải mái khi chạm vào vùng bị nhiễm trùng",
       "Hamster trở nên mệt mỏi và ít ăn uống"
     ],
-    "path": "img/hamster/hamster6.webp"
+    "path": "img/hamster/hamster6.webp",
+    "how_to_care": [
+      "Làm sạch vết thương hàng ngày và loại bỏ mủ",
+      "Sử dụng thuốc kháng khuẩn và kháng viêm theo chỉ định bác sĩ thú y",
+      "Giữ hamster trong môi trường sạch sẽ để tránh tái nhiễm"
+    ]
   },
   {
     "name": "Nhiễm trùng đường tiêu hóa (Enterotoxemia)",
@@ -80,6 +107,11 @@
       "Hamster giảm cảm giác thèm ăn và trở nên yếu",
       "Có thể xuất hiện sốt"
     ],
-    "path": "img/hamster/hamster7.webp"
+    "path": "img/hamster/hamster7.webp",
+    "how_to_care": [
+      "Cho hamster uống nước thường xuyên để bù nước",
+      "Cung cấp thức ăn dễ tiêu hóa và giữ vệ sinh chuồng nuôi",
+      "Đưa hamster đến bác sĩ thú y để được điều trị và sử dụng thuốc kháng sinh nếu cần."
+    ]
   }
 ]

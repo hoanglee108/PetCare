@@ -98,3 +98,7 @@
   height: 300px;
   object-fit: cover; /* Đảm bảo ảnh không bị méo và vẫn đầy đủ */
 }
+
+.select-search-container {
+  width: 100% !important;
+}

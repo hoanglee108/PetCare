@@ -23,9 +23,9 @@ def process_data():
     symptoms = data.get("listInput")
 
     if select == "Dog":
-        json_file = r"C:\Users\Admin\Desktop\codes\hcstt\AppPetCare\src\Dog24-12_modified.json"
+        json_file = r"C:\Users\Admin\Desktop\codes\hcstt\AppPetCare\src\Dog24-12_update.json"
     elif select == "Cat":
-        json_file = r"C:\Users\Admin\Desktop\codes\hcstt\AppPetCare\src\Cat24-12_updated.json"
+        json_file = r"C:\Users\Admin\Desktop\codes\hcstt\AppPetCare\src\Cat24-12_update.json"
     elif select == "Hamster":
         json_file = r"C:\Users\Admin\Desktop\codes\hcstt\AppPetCare\src\Hamster24-12_modified.json"
     else:
@@ -50,8 +50,8 @@ def get_symptoms():
 
         # Map loại thú cưng đến file JSON tương ứng
         pet_files = {
-            "Dog": r"C:\Users\Admin\Desktop\codes\hcstt\AppPetCare\src\Dog24-12_modified.json",
-            "Cat": r"C:\Users\Admin\Desktop\codes\hcstt\AppPetCare\src\Cat24-12_updated.json",
+            "Dog": r"C:\Users\Admin\Desktop\codes\hcstt\AppPetCare\src\Dog24-12_update.json",
+            "Cat": r"C:\Users\Admin\Desktop\codes\hcstt\AppPetCare\src\Cat24-12_update.json",
             "Hamster": r"C:\Users\Admin\Desktop\codes\hcstt\AppPetCare\src\Hamster24-12_modified.json",
         }
 

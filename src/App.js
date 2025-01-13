@@ -95,11 +95,14 @@ function App() {
 
     if (!hasError) {
       try {
+        console.log("Gửi yêu cầu với select:", select, "và listInput:", listInput);
         const response = await processData(select, listInput);
+        console.log("Dữ liệu trả về từ server:", response);
         setDiseases(response.diseases);
       } catch (error) {
         console.error("Lỗi khi xử lý dữ liệu:", error);
       }
+      setListError(["", ""]);
     }
   };
 
@@ -156,7 +159,7 @@ function App() {
               <button
                 className="btn btn-xoa"
                 onClick={handleDeleteInput}
-                disabled={listInput.length === 0}
+                disabled={listInput.length <= 2}
               >
                 Xóa triệu chứng
               </button>
@@ -184,6 +187,12 @@ function App() {
                           className="disease-image"
                         />
                       )}
+                      <h2>Cách chăm sóc</h2>
+                      <ul>
+                        {disease.how_to_care && disease.how_to_care.map((care, idx) => (
+                          <li key={idx}>{care}</li>
+                        ))}
+                      </ul>
                     </div>
                   ))
                   : "Thông tin bệnh"}
