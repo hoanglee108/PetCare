@@ -13,9 +13,9 @@
 ```pip install Flask-Cors```
 
 ## *How to run the project*
-*Firstly, open the Application*<br>
+*Firstly, open the Application on the Terminal*<br>
 ```cd path_to_the_project```<br>
 ```npm start```<br>
-*Secondly, run the api.py*<br>
+*Secondly, run the api.py on the new Terminal*<br>
 ```cd path_to_the_project\src```<br>
 ```python api.py```<br>
