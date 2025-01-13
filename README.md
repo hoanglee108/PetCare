@@ -7,15 +7,15 @@
 ```git clone https://github.com/hoanglee108/PetCare```
 
 ## *Install require module*
-```cd path_to_the_project```
-```npm i```
-```pip install Flask```
+```cd path_to_the_project``` <br>
+```npm i```<br>
+```pip install Flask```<br>
 ```pip install Flask-Cors```
 
 ## *How to run the project*
-*Firstly, open the Application*
-```cd path_to_the_project```
-```npm start```
-*Secondly, run the api.py*
-```cd path_to_the_project\scr```
-```python api.py```
+*Firstly, open the Application*<br>
+```cd path_to_the_project```<br>
+```npm start```<br>
+*Secondly, run the api.py*<br>
+```cd path_to_the_project\scr```<br>
+```python api.py```<br>
